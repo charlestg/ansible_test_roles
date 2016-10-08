@@ -1,0 +1,6 @@
+---
+- name: test shell
+  shell: echo hello
+  tags: echo
+
+

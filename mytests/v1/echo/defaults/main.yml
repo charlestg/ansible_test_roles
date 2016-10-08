@@ -1,0 +1,5 @@
+---
+# always prefix variable name with role name to avoid colliction
+
+test_var: "defaults scope"
+all_vars: "all vars"
