@@ -1,0 +1,16 @@
+---
+galaxy_info:
+  author: Charles Chen
+  description: test.
+  company: Test
+  license: MIT
+  min_ansible_version: 1.9
+  platforms:
+  - name: EL
+    versions:
+    - all
+  galaxy_tags:
+    - test
+dependencies:
+  #- { role: username.common, some_parameter: 3 }
+  #- { role: username.iptables, open_port: 80 }
